@@ -1,0 +1,15 @@
+{
+  "name": "daisycompute",
+  "version": "1.1.0",
+  "description": "array compute",
+  "main": "compute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "array"
+  ],
+  "author": "ryansecreat",
+  "license": "MIT"
+}
